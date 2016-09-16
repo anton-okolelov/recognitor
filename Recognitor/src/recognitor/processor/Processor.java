@@ -4,6 +4,7 @@ package recognitor.processor;
 import java.io.File;
 
 public class Processor {
+
     public Processor() {
         
     }        
